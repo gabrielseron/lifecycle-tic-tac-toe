@@ -13,7 +13,7 @@ pipeline {
 
     stage('Deploy') {
       steps {
-        echo 'Deploy Here'
+        echo 'Deploy Should Be Here'
       }
     }
   }
