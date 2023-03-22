@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css_mods__":{"/var/jenkins_home/workspace/lifecycle/src/app/page":["/var/jenkins_home/workspace/lifecycle/src/app/globals.css"]},"/var/jenkins_home/workspace/lifecycle/src/app/layout.tsx":["/var/jenkins_home/workspace/lifecycle/src/app/globals.css"]}
